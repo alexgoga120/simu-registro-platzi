@@ -1,0 +1,35 @@
+@import '~bulma';
+html{
+  background: #F5F5F5;
+}
+
+.container{
+  height: 409px;
+  width: 320px;
+}
+
+img{
+  width: 70%;
+}
+
+.input {
+  font-family: Roboto;
+  border: 0;
+  border-bottom: 1px solid #ff9300;
+  margin-bottom: .75em;
+  padding: 3px 0 .5em;
+}
+
+.label{
+  font-size: smaller;
+}
+
+.button{
+  background: #00BFD6 !important;
+  font-family: Roboto bold;
+}
+
+.title{
+  color: #00bfd6;
+  font-size: x-large;
+}
